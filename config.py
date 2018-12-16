@@ -1,0 +1,2 @@
+TOKEN = 'token'
+APIKEY = 'apikey'
